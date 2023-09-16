@@ -1,0 +1,8 @@
+{
+  "AppName": "Space Impact 2.0",
+  "WinWidth": 1280,
+  "WinHeight": 720,
+  "FullScreen": false,
+  "SoundPath": "../Assets/Sounds",
+  "TexturePath": "../Assets/Images"
+}
