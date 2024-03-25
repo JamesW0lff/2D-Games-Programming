@@ -10,5 +10,3 @@ Here you can find different projects which use simple A.I. for games.
 *  Hello Tiles Map - project with no major impact but to understand how to use tile maps.
 *  Hello Zombie - Eliminate as many zombies as you can.
 *  Space Impact - 2D game inspired in the Nokia game with the same name.
-
-** IMPORTANT NOTE: XEngine files were not developed by myself.
